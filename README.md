@@ -8,7 +8,7 @@ Template used for learning purposes only.
 
 Template used for learning purposes only.
 
-![Mockup](file:///D:/strona/eliza%20projekty/images/ELIZA_K_MOCKUP.jpg)
+![Mockup](D:/strona/eliza%20projekty/images/ELIZA_K_MOCKUP.jpg)
 
 ## Demo
 
