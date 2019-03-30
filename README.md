@@ -1,10 +1,14 @@
 # Eliza-Karczynska-strona
+
 Eliza Karczyńska strona
-# Cafe
 
 Template used for learning purposes only.
 
-![Mockup](http://zazolekpl.usermd.net/port-img/cafe-mockup.jpg)
+![Mockup](# Cafe
+
+Template used for learning purposes only.
+
+![Mockup](file:///D:/strona/eliza%20projekty/images/ELIZA_K_MOCKUP.jpg)
 
 ## Demo
 
@@ -15,7 +19,6 @@ Template used for learning purposes only.
 * [Bootstrap Grid](https://getbootstrap.com/docs/3.4/customize/)
 * [Unsplash Images](https://unsplash.com/)
 
-## Original Version
+)
 
-* [Coffee Template from ColorLib](https://colorlib.com/wp/template/coffee/)
 
