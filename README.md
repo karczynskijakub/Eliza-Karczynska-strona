@@ -2,11 +2,8 @@
 
 Eliza Karczyńska strona
 
-Template used for learning purposes only.
 
-![Mockup](# Cafe
-
-Template used for learning purposes only.
+Strona z projektami wnętrz i stoisk targowych
 
 ![Mockup](<a href= "D:/strona/eliza%20projekty/images/ELIZA_K_MOCKUP.jpg")
 
@@ -16,7 +13,7 @@ Template used for learning purposes only.
 ## Built With
 
 * [Bootstrap Grid](https://getbootstrap.com/docs/3.4/customize/)
-* [Unsplash Images](https://unsplash.com/)
+* Zdjęcia prywatne
 
 )
 
