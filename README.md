@@ -6,7 +6,7 @@ Strona z projektami wnętrz i stoisk targowych
 ![Mockup](images/ELIZA_K_MOCKUP.jpg)
 
 ## Demo
-* [Demo Version](https://github.com/karczynskijakub/Eliza-Karczynska-strona.git)
+* [Demo Version](https://karczynskijakub.github.io/Eliza-Karczynska-strona/)
 
 ## Built With
 
