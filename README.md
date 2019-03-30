@@ -8,10 +8,9 @@ Template used for learning purposes only.
 
 Template used for learning purposes only.
 
-![Mockup](D:/strona/eliza%20projekty/images/ELIZA_K_MOCKUP.jpg)
+![Mockup](<a href= "D:/strona/eliza%20projekty/images/ELIZA_K_MOCKUP.jpg")
 
 ## Demo
-
 * [Demo Version](https://zarzeckipawel.github.io/cafe/)
 
 ## Built With
