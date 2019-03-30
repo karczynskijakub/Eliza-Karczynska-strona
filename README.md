@@ -1,7 +1,5 @@
 # Eliza-Karczynska-strona
 
-Eliza Karczyńska strona
-
 
 Strona z projektami wnętrz i stoisk targowych
 
@@ -14,7 +12,5 @@ Strona z projektami wnętrz i stoisk targowych
 
 * [Bootstrap Grid](https://getbootstrap.com/docs/3.4/customize/)
 * Zdjęcia prywatne
-
-)
 
 
