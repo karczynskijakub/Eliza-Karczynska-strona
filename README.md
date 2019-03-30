@@ -3,10 +3,10 @@
 
 Strona z projektami wnętrz i stoisk targowych
 
-![Mockup](<a href= "D:/strona/eliza%20projekty/images/ELIZA_K_MOCKUP.jpg")
+![Mockup](images/ELIZA_K_MOCKUP.jpg)
 
 ## Demo
-* [Demo Version](https://zarzeckipawel.github.io/cafe/)
+* [Demo Version](https://github.com/karczynskijakub/Eliza-Karczynska-strona.git)
 
 ## Built With
 
